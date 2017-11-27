@@ -1,0 +1,26 @@
+{
+  "name": "array-includes-all-elements-in-array",
+  "version": "1.0.0",
+  "description": "Test if the first array includes all elements in the seconds array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/array-includes-all-elements-in-array.git"
+  },
+  "keywords": [
+    "array",
+    "includes"
+  ],
+  "author": "Steve Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemao/array-includes-all-elements-in-array/issues"
+  },
+	"engines": {
+		"node": ">=4"
+	},
+  "homepage": "https://github.com/stevemao/array-includes-all-elements-in-array#readme"
+}
